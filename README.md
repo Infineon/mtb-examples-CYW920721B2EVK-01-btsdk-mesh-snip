@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # Mesh Snip Examples
 
 Each app in this application group demonstrates use of one SIG BLE mesh model as indicated by the name of the application.
